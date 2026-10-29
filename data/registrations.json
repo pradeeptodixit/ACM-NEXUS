@@ -1,0 +1,26 @@
+[
+  {
+    "id": "777fa4e7-e756-415b-bcec-404d4eee2dda",
+    "referenceNumber": "NEXUS-2026-A1B2-C3D4",
+    "registeredAt": "2026-10-29T13:29:51.309Z",
+    "fullName": "Pradeepto Dixit (Test Student)",
+    "collegeEmail": "pradeepto.test@abes.ac.in",
+    "academicYear": "3rd Year",
+    "department": "Computer Science & Engineering",
+    "eventId": "nexus-devsprint-2026",
+    "eventTitle": "Nexus DevSprint 2026: Modern Systems & Distributed Architecture",
+    "areaOfInterest": "Distributed Systems & Web Architecture"
+  },
+  {
+    "id": "1dd7d62b-e907-4f1e-9515-04500efddc6a",
+    "referenceNumber": "NEXUS-2026-5E14-D3DA",
+    "registeredAt": "2026-10-29T13:30:33.485Z",
+    "fullName": "Ananya Verma",
+    "collegeEmail": "ananya.verma@abes.ac.in",
+    "academicYear": "2nd Year",
+    "department": "Computer Science & Engineering",
+    "eventId": "acmw-empowertech-2026",
+    "eventTitle": "ACM-W EmpowerTech: Systems Security & Diversity in Tech",
+    "areaOfInterest": "Cybersecurity & Cryptography"
+  }
+]

@@ -1,0 +1,23 @@
+# Node modules & dependencies
+node_modules/
+dist/
+dist-ssr/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs & temp
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.tmp.*
+
+# Data directory (keep folder, ignore local test records)
+data/*.tmp.*
+# data/registrations.json
+
+# OS files
+.DS_Store
+Thumbs.db
