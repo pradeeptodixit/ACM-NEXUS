@@ -23,3 +23,5 @@ data/*.tmp.*
 Thumbs.db
 
 data/registrations.json
+
+*.tsbuildinfo
